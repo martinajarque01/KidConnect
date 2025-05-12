@@ -1,4 +1,4 @@
-### 👶 KidConnect
+# 👶 KidConnect
 
 **KidConnect** es una plataforma digital diseñada para facilitar la conexión entre **padres o tutores** y **proveedores de servicios orientados a niños**. Desde actividades educativas hasta entretenimiento y cuidado infantil, KidConnect centraliza una variedad de ofertas en un solo lugar, permitiendo que las familias encuentren de forma rápida y segura los servicios más adecuados para sus hijos.
 
